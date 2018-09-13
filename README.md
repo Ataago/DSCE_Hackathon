@@ -6,7 +6,7 @@ The DSCE Hackathon project - DO SOMETHING
 
 # IDEA
 
-- A platform where users can post “tasks” with their mobile phones in order to get help with the things they want to improve in the society.
+- A platform where users can post "tasks" with their mobile phones in order to get help with the things they want to improve in the society.
 - These things can be anything from household help to, clean up neighbourhoods.
 - Other users can Upvote these tasks that they too want to see happening.
 - NGO’s and other users can then provide their help  with these tasks.
