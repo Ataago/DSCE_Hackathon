@@ -1,4 +1,4 @@
-# DSCE_Hackathon
+ï»¿# DSCE_Hackathon
 The DSCE Hackathon project - DO SOMETHING
 
 # Do Something
@@ -44,9 +44,9 @@ The DSCE Hackathon project - DO SOMETHING
 
 # Contributors
 
-- Amit Kumar Gupta (Leader) – Lead Backend & Frontend Programmer.
-- Mohammed Ataaur Rahaman – Lead Designer & UI Frontend.
-- Kajal Kumari – Concept Artist and Designer.
-- Dhanush Prabhakar – Concept Artist.
-- Sukruth MS – Helped with Design.
+- Amit Kumar Gupta (Leader) ï¿½ Lead Backend & Frontend Programmer.
+- Mohammed Ataaur Rahaman ï¿½ Lead Designer & UI Frontend.
+- Kajal Kumari ï¿½ Concept Artist and Designer.
+- Dhanush Prabhakar ï¿½ Concept Artist.
+- Sukruth MS ï¿½ Helped with Design.
 
