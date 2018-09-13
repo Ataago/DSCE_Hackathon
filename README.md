@@ -24,3 +24,29 @@ The DSCE Hackathon project - DO SOMETHING
 # Platform Architecture
 
 
+# Applications
+
+- Repairing of Roads.
+- Roadside Advertisements clean-up.
+- To supply the needs of orphanages.
+- Planting trees on road side/gardens.
+- Stray pet control in the neighbourhood.
+- Cleaning up of garbage pile up in the neighbourhood.
+
+# Layout Plan
+
+
+
+
+# Screenshots from the App
+
+
+
+# Contributors
+
+- Amit Kumar Gupta (Leader) – Lead Backend & Frontend Programmer.
+- Mohammed Ataaur Rahaman – Lead Designer & UI Frontend.
+- Kajal Kumari – Concept Artist and Designer.
+- Dhanush Prabhakar – Concept Artist.
+- Sukruth MS – Helped with Design.
+
