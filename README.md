@@ -21,7 +21,6 @@ The DSCE Hackathon project - DO SOMETHING
 - Initial front-end systems built on android and possible web based in the future.
 - A vision and possibility that NGO's can use the app to help people using the app.
 
-# Platform Architecture
 
 
 # Applications
@@ -32,14 +31,6 @@ The DSCE Hackathon project - DO SOMETHING
 - Planting trees on road side/gardens.
 - Stray pet control in the neighbourhood.
 - Cleaning up of garbage pile up in the neighbourhood.
-
-# Layout Plan
-
-
-
-
-# Screenshots from the App
-
 
 
 # Contributors

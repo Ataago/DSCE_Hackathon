@@ -1,0 +1,14 @@
+Sign Up
+	Name
+	ID Email
+	Phone
+	Password
+
+Sign in
+	Email id
+	password
+
+MainPage
+	Task
+		
+
